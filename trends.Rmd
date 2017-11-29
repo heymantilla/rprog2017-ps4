@@ -1,0 +1,10 @@
+---
+title: "TP4"
+author: "Sebastian Mantilla"
+date: "29 de noviembre de 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
